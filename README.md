@@ -5,5 +5,5 @@
 -  the button vehicles is used to insert the vehicles,
 - using increment and decrement with buttons who are below the table  using jquery,
  - count vehicles passengers with php,
-- the project can be opened with netbean,
+- the project can be opened with netbeans IDE,
 - Download Zip file.
